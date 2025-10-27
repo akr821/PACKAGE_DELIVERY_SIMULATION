@@ -1,0 +1,37 @@
+# Executable files
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Build files
+*.a
+*.so
+*.dll
+
+# IDE files
+.vs/
+.vscode/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store
+
+# Backup files
+*.bak
+*.backup
+
+# Keep source files
+# !*.cpp
+# !*.h
+# !*.md
+# !Makefile
+
