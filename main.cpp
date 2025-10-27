@@ -8,9 +8,7 @@
 
 // Function to display main menu
 void displayMenu() {
-    std::cout << "\n╔════════════════════════════════════════════════════════╗" << std::endl;
-    std::cout << "║   PACKAGE DELIVERY SIMULATION (Amazon Logistics Clone)  ║" << std::endl;
-    std::cout << "╚════════════════════════════════════════════════════════╝" << std::endl;
+    std::cout << "\nPACKAGE DELIVERY SIMULATION (Amazon Logistics Clone)" << std::endl;
     std::cout << "\n1.  Add Order" << std::endl;
     std::cout << "2.  View Pending Orders" << std::endl;
     std::cout << "3.  Dispatch Truck" << std::endl;
